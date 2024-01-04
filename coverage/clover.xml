@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1704400999398" clover="3.2.0">
-  <project timestamp="1704400999398" name="All files">
-    <metrics statements="20" coveredstatements="5" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="3" elements="28" coveredelements="8" complexity="0" loc="20" ncloc="20" packages="1" files="2" classes="2"/>
-    <file name="cli.ts" path="C:\Users\cargo\Desktop\Fonaments\sprint2\debounce\src\cli.ts">
-      <metrics statements="15" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
-      <line num="1" count="0" type="stmt"/>
-      <line num="2" count="0" type="stmt"/>
-      <line num="4" count="0" type="stmt"/>
-      <line num="5" count="0" type="stmt"/>
-      <line num="6" count="0" type="stmt"/>
-      <line num="9" count="0" type="stmt"/>
-      <line num="14" count="0" type="stmt"/>
-      <line num="18" count="0" type="stmt"/>
-      <line num="24" count="0" type="stmt"/>
-      <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
-      <line num="33" count="0" type="stmt"/>
-      <line num="34" count="0" type="stmt"/>
-      <line num="38" count="0" type="stmt"/>
-      <line num="40" count="0" type="stmt"/>
-      <line num="46" count="0" type="stmt"/>
-    </file>
-    <file name="debounce.ts" path="C:\Users\cargo\Desktop\Fonaments\sprint2\debounce\src\debounce.ts">
-      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="16" count="6" type="stmt"/>
-      <line num="19" count="6" type="stmt"/>
-      <line num="20" count="2" type="stmt"/>
-    </file>
+<coverage generated="1704401753887" clover="3.2.0">
+  <project timestamp="1704401753887" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
