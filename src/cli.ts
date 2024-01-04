@@ -12,8 +12,8 @@ const rl = readline.createInterface({
 });
 
 program
-    .version('1.0.0')// Defineix la versió de l'app
-    .description('CLI for the debounce function'); // Description
+    .version('1.0.0')
+    .description('CLI for the debounce function');
 
 program
     .command('run')
