@@ -1,5 +1,5 @@
 {
-  "name": "@aredhel/sprint2-debounce",
+  "name": "@aredhel/sprint2_debounce",
   "version": "1.0.1",
   "description": "",
   "main": "debounce.js",
@@ -14,9 +14,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aredhel269/sprint2-debounce.git"
+    "url": "https://github.com/Aredhel269/sprint2_debounce.git"
   },
-  "homepage": "https://github.com/Aredhel269/sprint2-debounce#readme",
+  "homepage": "https://github.com/Aredhel269/sprint2_debounce#readme",
   "dependencies": {
     "commander": "^11.1.0",
     "figlet": "^1.7.0",
